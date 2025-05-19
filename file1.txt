@@ -1,4 +1,4 @@
 Hello i am file 1
-class A{
+class B{
 publixadsjfhsa skdj 
 }
